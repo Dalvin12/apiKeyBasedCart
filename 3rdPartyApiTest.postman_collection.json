@@ -58,12 +58,12 @@
 					"query": [
 						{
 							"key": "name",
-							"value": "tapiwa",
+							"value": "Dalvin",
 							"disabled": true
 						},
 						{
 							"key": "email",
-							"value": "tapiwa@test.com",
+							"value": "dalvin.dhanah96@gmail.com",
 							"disabled": true
 						},
 						{
@@ -97,7 +97,7 @@
 					"formdata": [
 						{
 							"key": "email",
-							"value": "tapiwa@kko.com",
+							"value": "dalvin.dhanah96@gmail.com",
 							"type": "text"
 						},
 						{
